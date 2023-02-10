@@ -57,3 +57,8 @@ Setor financeiro
 ### Modelo conceitual
 
 !['Diagrama do modelo conceitual'](./mapa%20.png)
+
+
+### Modelo lógico
+
+!["Diagrama do modelo lógico de estoque"](./tabela.png)
